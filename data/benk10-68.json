@@ -1,0 +1,9 @@
+{
+  "contest": 97,
+  "handle": "benk10",
+  "address": "0x4d6570ae6B1a64a41dF34acB3CDFd490452F649F",
+  "risk": "2",
+  "title": "Unbounded loop could cause funds to be stuck",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2022-03-biconomy-findings/issues/68"
+}
