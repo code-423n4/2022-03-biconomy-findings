@@ -1,0 +1,9 @@
+{
+  "contest": 97,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Unsupported tokens cannot be withdrawn",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2022-03-biconomy-findings/issues/54"
+}
