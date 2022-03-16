@@ -1,0 +1,9 @@
+{
+  "contest": 97,
+  "handle": "Jujic",
+  "address": "0x6E1DA38F9d9D87ce228234a570D992D4DB294fA1",
+  "risk": "2",
+  "title": "Incompatibility With Rebasing/Deflationary/Inflationary token",
+  "issueId": 91,
+  "issueUrl": "https://github.com/code-423n4/2022-03-biconomy-findings/issues/91"
+}
