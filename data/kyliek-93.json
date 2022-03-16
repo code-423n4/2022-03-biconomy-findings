@@ -1,0 +1,9 @@
+{
+  "contest": 97,
+  "handle": "kyliek",
+  "address": "0xdE624A36bcCd38DB850365b34Bc99ab3b1252415",
+  "risk": "3",
+  "title": "Liquidity providers unable to remove liquidity when the pool is in deficit state",
+  "issueId": 93,
+  "issueUrl": "https://github.com/code-423n4/2022-03-biconomy-findings/issues/93"
+}
