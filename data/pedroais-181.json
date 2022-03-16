@@ -1,0 +1,9 @@
+{
+  "contest": 97,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "3",
+  "title": "Sending tokens close to the maximum will fail and user will lose tokens",
+  "issueId": 181,
+  "issueUrl": "https://github.com/code-423n4/2022-03-biconomy-findings/issues/181"
+}
