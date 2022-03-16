@@ -1,0 +1,9 @@
+{
+  "contest": 97,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "3",
+  "title": "Farming rewards are incorrectly calculated when multiple operations on the same token are done in the same block",
+  "issueId": 162,
+  "issueUrl": "https://github.com/code-423n4/2022-03-biconomy-findings/issues/162"
+}
