@@ -1,0 +1,9 @@
+{
+  "contest": 97,
+  "handle": "kyliek",
+  "address": "0xdE624A36bcCd38DB850365b34Bc99ab3b1252415",
+  "risk": "3",
+  "title": "Incentive Pool can be drained without rebalancing the pool",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2022-03-biconomy-findings/issues/87"
+}
