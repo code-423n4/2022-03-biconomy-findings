@@ -2,7 +2,7 @@
   "contest": 97,
   "handle": "benk10",
   "address": "0x4d6570ae6B1a64a41dF34acB3CDFd490452F649F",
-  "risk": "1",
+  "risk": "Q",
   "title": "QA Report",
   "issueId": 114,
   "issueUrl": "https://github.com/code-423n4/2022-03-biconomy-findings/issues/114"
