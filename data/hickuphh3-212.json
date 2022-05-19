@@ -1,0 +1,9 @@
+{
+  "contest": 97,
+  "handle": "hickuphh3",
+  "address": "0xD5388291EAbe96b56069440C97046791E2F72573",
+  "risk": "2",
+  "title": "sendFundsToUser() function, where executors are fully trusted to provide the correct information to complete the cross-chain transfer",
+  "issueId": 212,
+  "issueUrl": "https://github.com/code-423n4/2022-03-biconomy-findings/issues/212"
+}
