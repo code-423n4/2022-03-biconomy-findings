@@ -1,3 +1,11 @@
+---
+sponsor: "Biconomy"
+slug: "2022-03-biconomy"
+date: "2022-07-25"
+title: "Biconomy Hyphen 2.0 contest"
+findings: "https://github.com/code-423n4/2022-03-biconomy-findings/issues"
+contest: 97
+---
 
 # Overview
 
